@@ -1,6 +1,6 @@
 # Flutter Rowan University Dino Park
 
-A Flutter-based mobile application showcasing the Rowan University Fossil Park, developed for the Topics in Mobile Programming I class.
+A Flutter-based mobile application showcasing the Rowan University Fossil Park, developed for my Topics in Mobile Programming I class.
 
 ## Features
 
